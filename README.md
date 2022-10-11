@@ -1,9 +1,9 @@
 ### Hi there 👋
-### - 🔭 I’m currently working on an electron app
+
 ### - 🌱 I’m currently learning javascript and python
-### - 👯 I’m looking to collaborate on my electron app
+
 ### - 📫 How to reach me: discord - khun#2985
-### - 😄 Pronouns: he/him/his
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khun-int&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khun-int)](https://github.com/anuraghazra/github-readme-stats)
 ### misc 🍆
