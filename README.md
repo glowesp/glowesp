@@ -4,7 +4,7 @@
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, HTML, Python
-- ⚙️ C++, Lua
+- ⚙️ C#, Lua
 - 👁️ CSS
 
 ## Contact
