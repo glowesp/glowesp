@@ -11,7 +11,7 @@
 - 📫 How to reach me: 
 
 - discord - khun#2985
-- email -  zhengyangc2007@gmail.com
+- email -  khunstr@protonmail.com
 
 ## Misc
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khun-int)](https://github.com/anuraghazra/github-readme-stats)
