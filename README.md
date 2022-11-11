@@ -8,8 +8,6 @@
 - 👁️ CSS
 
 ## Contact
-- 📫 How to reach me: 
-
 - discord - khun#2985
 - email -  khunstr@protonmail.com
 
