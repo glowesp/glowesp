@@ -1,6 +1,6 @@
 ### :trollface: Hi, I'm Yang (aka khun)
 
-- :speech_balloon: currently learning javascript and c#
+- :speech_balloon: Currently learning javascript and c#
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, HTML, Python
@@ -8,8 +8,8 @@
 - 👁️ CSS
 
 ## Contact
-- discord - khun#2985
-- email -  khunstr@protonmail.com
+- Discord - khun#2985
+- Email -  khunstr@protonmail.com
 
 ## Misc
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khun-int&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
