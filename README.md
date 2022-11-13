@@ -1,6 +1,6 @@
 ## :trollface: Hi!
 
-> I'm Yang (aka khun)
+> I'm Yang (aka khun)/
 *:speech_balloon: Currently learning Javascript and C#*
 
 ## Skills
