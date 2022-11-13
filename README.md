@@ -10,7 +10,7 @@
 - 👁️ CSS
 
 ## Contact
-- :speech_balloon: [discord](khun#2985)
+- :email: [discord](khun#2985)
 - :speech_balloon: [email](khunstr@protonmail.com)
 
 ## Misc
