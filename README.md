@@ -1,7 +1,7 @@
 ## :trollface: Hi!
 
 > I'm Yang (aka khun)
-<sub>:speech_balloon: Currently learning Javascript and C#<sub>
+- :speech_balloon: Currently learning Javascript and C#
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, HTML, Python
