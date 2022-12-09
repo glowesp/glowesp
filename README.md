@@ -1,6 +1,6 @@
 ## :trollface: Hi!
 
-> I'm Yang (aka khun)
+> I'm Yang
 
 *currently learning Javascript and C++*
 
