@@ -1,7 +1,6 @@
 ## :trollface: Hi!
 
 > I'm Yang (aka khun)
-> front-end dev
 
 *Currently learning Javascript and C++*
 
