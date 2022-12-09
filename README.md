@@ -2,7 +2,7 @@
 
 > I'm Yang (aka khun)
 
-*Currently learning Javascript and C++*
+*currently learning Javascript and C++*
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, HTML, Python
