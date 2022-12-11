@@ -1,8 +1,7 @@
 ## :trollface: Hi!
 
-> I'm Yang
-
-*currently learning Javascript and C++*
+`I'm Yang,
+currently learning Javascript and C++`
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, HTML, Python
