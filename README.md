@@ -5,7 +5,7 @@ currently learning Javascript and C++`
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, HTML, Python
-- ⚙️ C#, Lua
+- ⚙️ C#, C++, Lua
 - 👁️ CSS
 
 ## Contact
