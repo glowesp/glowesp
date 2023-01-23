@@ -13,5 +13,5 @@ currently learning ASM and C++`
 - :email: [email](mailto:khunstr@protonmail.com)
 
 ## Misc
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khun-int&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glowesp&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
