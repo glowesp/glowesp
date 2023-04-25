@@ -1,8 +1,7 @@
 ## :trollface: Hi!
 
 `I'm Yang,
-currently learning ASM and C++`
-
+frontend web developer at hotwheels.vip`
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, HTML, Python
 - ⚙️ C#, C++, Lua
