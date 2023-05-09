@@ -8,8 +8,8 @@ frontend web developer at hotwheels.vip`
 - 👁️ CSS
 
 ## Contact
-- 🗨️ [discord](khun#2985)
-- :email: [email](mailto:khunstr@protonmail.com)
+- 🗨️ [khun#2985](khun#2985) on discord
+- :email: [khunstr@protonmail.com](mailto:khunstr@protonmail.com) on e-mail
 
 ## Misc
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glowesp&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
