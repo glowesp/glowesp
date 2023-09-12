@@ -1,7 +1,6 @@
 ## :trollface: Hi!
 
-`I'm Yang,
-frontend web developer at wednesday.wtf`
+`frontend web developer at wednesday.wtf`
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, HTML, Python
 - ⚙️ C#, C++, Lua
