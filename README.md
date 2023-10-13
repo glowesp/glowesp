@@ -1,6 +1,6 @@
 ## :trollface: Hi!
 
-`frontend web developer at wednesday.wtf`
+`Web Developer at [wednesday.wtf]`
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, HTML, Python
 - ⚙️ C#, C++, Lua
