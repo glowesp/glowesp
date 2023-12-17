@@ -1,6 +1,5 @@
 ## :trollface: Hi!
-
-Web Developer at [wednesday.wtf](https://wednesday.wtf) :shipit:
+front-end web developer at [wednesday.wtf](https://wednesday.wtf) :shipit:
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, HTML, Python
