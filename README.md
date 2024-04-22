@@ -1,5 +1,5 @@
 ## :trollface: Hi!
-front-end web developer at [wednesday.wtf](https://wednesday.wtf) :shipit:
+fullstack developer at [wednesday.wtf](https://wednesday.wtf) :shipit:
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, HTML, Python
