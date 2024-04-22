@@ -7,5 +7,5 @@ fullstack developer at [wednesday.wtf](https://wednesday.wtf) :shipit:
 - 👁️ CSS
 
 ## Contact
-- 🗨️ [khun#2985](khun#2985) on discord
+- 🗨️ [@khunstr](@khunstr) on discord
 - :email: [khunstr@protonmail.com](mailto:khunstr@protonmail.com) on e-mail
