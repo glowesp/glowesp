@@ -1,5 +1,5 @@
 ## :trollface: Hi!
-fullstack developer at [wednesday.wtf](https://wednesday.wtf) :shipit:
+fullstack developer :shipit:
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, HTML, Python
