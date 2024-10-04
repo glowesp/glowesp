@@ -1,5 +1,5 @@
-## :trollface: Hi!
-fullstack developer :shipit:
+## Hi!
+frontend developer 
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, HTML, Python
