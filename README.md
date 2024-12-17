@@ -1,5 +1,5 @@
 ## Hi!
-frontend developer 
+computer science student 
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, HTML, Python
