@@ -1,5 +1,5 @@
 ## Hi!
-computer science student 
+A Level Computer Science student 
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, HTML, Python
